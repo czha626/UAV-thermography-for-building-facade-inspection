@@ -1,0 +1,9 @@
+Homography transformation matrix from rectified thermal image point to RGB image point:
+[4.50434	-0.392672	442.433
+-0.0252595	4.68054	253.382
+-2.66792e-05	-0.000193133	1]
+
+Homography transformation matrix from RGB image point to rectified thermal image point:
+[0.201594	0.00154281	-64.2534
+-0.000155454	0.190959	-39.2384
+-2.12844e-06	-8.73168e-08	1]
